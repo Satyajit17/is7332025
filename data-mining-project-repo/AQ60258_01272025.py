@@ -1,1 +1,1 @@
-print("CI/CD pipeline setup")
+print("Setup for the CI/CD pipeline")
